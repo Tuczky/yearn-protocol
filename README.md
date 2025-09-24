@@ -83,6 +83,8 @@ For security concerns, please visit [Bug Bounty](https://github.com/iearn-financ
 
 ### Documentation
 
+checked and all good
+
 You can read more about yearn finance on our documentation [webpage](https://docs.yearn.finance).
 
 ### Discussion
