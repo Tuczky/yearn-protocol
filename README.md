@@ -89,4 +89,7 @@ You can read more about yearn finance on our documentation [webpage](https://doc
 
 ### Discussion
 
-For questions not covered in the docs, please visit [our Discord server](http://discord.yearn.finance).
+For questions not covered in the docs, please visit [our Discord server](https://discord.com/invite/yearn).
+
+
+
